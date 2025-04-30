@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+input {
+  padding: 6px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 6px 12px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+#output,
+#contactOutput {
+  margin-top: 15px;
+  font-size: 16px;
+  white-space: pre-line;
+}
+
+.section {
+  margin-bottom: 40px;
+}
